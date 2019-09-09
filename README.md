@@ -43,13 +43,13 @@ the following partial class diagram of the framework
 
 
 IMAGE here 
-![Class Diagram question 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Car class diagram")
+![Class Diagram question 2](https://github.com/itimotin/AdvancedSD_FrameworkPattern/blob/master/frameworkPatternInitialQuestion.png "Car class diagram")
 
 
 The sequence diagram of a possible scenario looks like this:
 
 image Here
-![Sequence diagram question 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sequence diagram for Car")
+![Sequence diagram question 2](https://github.com/itimotin/AdvancedSD_FrameworkPattern/blob/master/sequenceDiagramFramework.png "Sequence diagram for Car")
 
 
 
